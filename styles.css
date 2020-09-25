@@ -21,8 +21,8 @@ p{
 }
 
 .assignment img{
-    width: 200;
-    height: 200;
+    max-width: 200;
+    max-height: 200;
     padding: 10px;
 }
 
