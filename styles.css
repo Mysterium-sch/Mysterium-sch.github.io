@@ -16,7 +16,10 @@ p{
     display:flex;
     padding:5px;
     margin: 10px;
+    margin-bottom: 30px;
     background: #6DF2DA;
+    border-radius: 5px;
+    box-shadow: 5px 10px #224A59;
 
 }
 
@@ -24,8 +27,13 @@ p{
     max-width: 200;
     max-height: 200;
     border: 5px solid #3B848C;
+    border-radius: 5px;
 }
 
 .assignment h1{
     padding: 10px
+}
+
+.assignment a:hover{
+color:#173742; 
 }
