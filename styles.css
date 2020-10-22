@@ -4,6 +4,7 @@ body{
 }
 
 h1{
+    text-align: center;
     color:#224A59;
 }
 
@@ -12,8 +13,13 @@ p{
     color: #224A59;
 }
 
-.assignment{
+.assignments{
     display:flex;
+    flex-wrap: wrap;
+}
+
+.assignment{
+    width: 30%;
     padding:5px;
     margin: 10px;
     margin-bottom: 30px;
@@ -24,6 +30,8 @@ p{
 }
 
 .assignment img{
+    display: block;
+    margin: auto;
     max-width: 200;
     max-height: 200;
     border: 5px solid #3B848C;
