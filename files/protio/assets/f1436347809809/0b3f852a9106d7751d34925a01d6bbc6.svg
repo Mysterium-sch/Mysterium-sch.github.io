@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Folderpictures</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Formats" sketch:type="MSLayerGroup" transform="translate(-116.000000, -1313.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Folderpictures" transform="translate(120.000000, 1324.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2010" x="0" y="10" width="52" height="33"></rect>
+                <rect id="Rectangle-2010" x="0" y="6" width="52" height="4"></rect>
+                <path d="M0,0 L18,0 L22,6 L0,6 L0,0 Z" id="Rectangle-2011"></path>
+                <rect id="Rectangle-2072" x="10" y="16" width="32" height="21"></rect>
+                <polygon id="Triangle-91" points="16.5 25 22 37 11 37 "></polygon>
+                <circle id="Oval-1764" cx="33.5" cy="22.5" r="2.5"></circle>
+                <polygon id="Triangle-92" points="28.5 29 36 37 21 37 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
